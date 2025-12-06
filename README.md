@@ -1,0 +1,58 @@
+# 春野 – Buddha
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+もうぜんぶ知りません
+大人たち
+いうことなし
+そこ退いて業なし
+改めてくれ
+もうぜんぶ要りません
+仇なし
+ほんま莫迦じゃね
+心だけは
+今も放さない
+目障り
+TYPE and BEAT
+正しくないのは片脚だけ
+後は引くだけ
+君のことだけ
+Scream all you want
+No one can hear you
+だれが見定めていいって
+いったの
+私だけのもの
+Scream all you want
+No one can hear you
+だれが応えてもいいって
+いったの
+お呼びじゃないから
+もうぜんぶ知りません
+大人たち
+いうことなし
+そこ退いて業なし
+改めてくれ
+もうぜんぶ要りません
+仇なし
+ほんま莫迦じゃね
+恐ろしく感じるのならば
+Leave me alone
+いとも易く大人を売って
+真に傾倒してんのだあれ
+Just sinking holes in my mind
+けれども
+間違った愛が愚かに全部ぶっ壊した
+も一度ここで
+浸ることも
+Scream all you want
+No one can hear you
+だれが見定めていいって
+いったの
+私だけのもの
+Scream all you want
+No one can hear you
+だれが応えてもいいって
+いったの
+お呼びじゃないから
+```
