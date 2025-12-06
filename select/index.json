@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Buddha",
+  "base_artist": "春野",
+  "createdAt": "2025-12-06T16:42:30.972969Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Amos Moses - Buddha Remastered - 2000",
+      "artist": "Jerry Reed",
+      "has_synced": true,
+      "path": "select/01_Amos_Moses_-_Buddha_Remastered_-_2000_Jerry_Reed.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Are You Sure Hank Done It This Way (Buddha remastered August, 2001)",
+      "artist": "Waylon Jennings",
+      "has_synced": true,
+      "path": "select/02_Are_You_Sure_Hank_Done_It_This_Way_(Buddha_remastered_August,_2001)_Waylon_Jennings.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bouquet Of Roses - Digitally Remastered for Buddha Records: 2000",
+      "artist": "Eddy Arnold, The Tennessee Plowboy and his Guitar",
+      "has_synced": false,
+      "path": "select/03_Bouquet_Of_Roses_-_Digitally_Remastered_for_Buddha_Records__2000_Eddy_Arnold,_The_Tennessee_Plowboy_and_his_Guitar.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bouquet of Roses (Digitally Remastered for Buddha Records: 2000)",
+      "artist": "The Tennessee Plowboy and His Guitar",
+      "has_synced": false,
+      "path": "select/04_Bouquet_of_Roses_(Digitally_Remastered_for_Buddha_Records__2000)_The_Tennessee_Plowboy_and_His_Guitar.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gold Dust Woman (Remastered For Buddha - October 30, 2000)",
+      "artist": "Waylon Jennings",
+      "has_synced": false,
+      "path": "select/05_Gold_Dust_Woman_(Remastered_For_Buddha_-_October_30,_2000)_Waylon_Jennings.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hello Love (Buddha Remastered - February 5, 2001)",
+      "artist": "Hank Snow",
+      "has_synced": true,
+      "path": "select/06_Hello_Love_(Buddha_Remastered_-_February_5,_2001)_Hank_Snow.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mammas Don't Let Your Babies Grow Up to Be Cowboys (Remastered for Buddha - October 30, 2000)",
+      "artist": "Waylon Jennings feat. Willie Nelson",
+      "has_synced": true,
+      "path": "select/07_Mammas_Don't_Let_Your_Babies_Grow_Up_to_Be_Cowboys_(Remastered_for_Buddha_-_Octo_Waylon_Jennings_feat._Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mammas Don't Let Your Babies Grow up to Be Cowboys (Remastered For Buddha - October 30, 2000)",
+      "artist": "Waylon Jennings & Willie Nelson",
+      "has_synced": true,
+      "path": "select/08_Mammas_Don't_Let_Your_Babies_Grow_up_to_Be_Cowboys_(Remastered_For_Buddha_-_Octo_Waylon_Jennings_&_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Buddha of Suburbia",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/09_The_Buddha_of_Suburbia_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bad (Afrojack Remix) [feat. Pitbull] [DJ Buddha Edit]",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/10_Bad_(Afrojack_Remix)_[feat._Pitbull]_[DJ_Buddha_Edit]_Michael_Jackson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bad (remix by Afrojack DJ Buddha edit)",
+      "artist": "Michael Jackson feat. Pitbull",
+      "has_synced": true,
+      "path": "select/11_Bad_(remix_by_Afrojack_DJ_Buddha_edit)_Michael_Jackson_feat._Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You're The Buddha",
+      "artist": "Howard Jones",
+      "has_synced": false,
+      "path": "select/12_You're_The_Buddha_Howard_Jones.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Problem (DJ Buddha N Lucky G House Mix)",
+      "artist": "Ariana Grande Feat. Iggy Azalea",
+      "has_synced": true,
+      "path": "select/13_Problem_(DJ_Buddha_N_Lucky_G_House_Mix)_Ariana_Grande_Feat._Iggy_Azalea.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Buddha of Suburbia",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/14_Buddha_of_Suburbia_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Buddha Of Suburbia - feat. Lenny Kravitz; 2021 Remaster",
+      "artist": "David Bowie feat. Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/15_Buddha_Of_Suburbia_-_feat._Lenny_Kravitz;_2021_Remaster_David_Bowie_feat._Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Buddha Of Suburbia (Featuring Lenny Kravitz On Guitar)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/16_Buddha_Of_Suburbia_(Featuring_Lenny_Kravitz_On_Guitar)_David_Bowie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Buddha",
+      "artist": "春野",
+      "has_synced": false,
+      "path": "select/pl_01_Buddha_春野.txt"
+    }
+  ]
+}
